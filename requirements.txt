@@ -1,0 +1,6 @@
+# Core HTTP library
+requests>=2.28.0
+
+# Rich terminal output (tables, colours, progress spinners)
+# If you don't want it, remove this line — the CLI falls back to plain text
+rich>=13.0.0
